@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual Studio 2022\\Store.Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\productservices\\dtos\\brandtypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservices\\dtos\\brandtypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\productservices\\dtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservices\\dtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\productservices\\dtos\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservices\\dtos\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\productservices\\dtos\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservices\\dtos\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandTypeDetailsDto.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\BrandTypeDetailsDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\Dtos\\BrandTypeDetailsDto.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\BrandTypeDetailsDto.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\Dtos\\BrandTypeDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:30:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetailsDto.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductDetailsDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\Dtos\\ProductDetailsDto.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductDetailsDto.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\Dtos\\ProductDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:30:43.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\Dtos\\ProductProfile.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductProfile.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\Dtos\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:23:42.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:15:47.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Store.Web.csproj",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Store.Web.csproj",
+              "RelativeDocumentMoniker": "Store.Web\\Store.Web.csproj",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Store.Web.csproj",
+              "RelativeToolTip": "Store.Web\\Store.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T23:08:20.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:07:02.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeToolTip": "Store.Web\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:16:29.922Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

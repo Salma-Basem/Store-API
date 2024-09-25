@@ -1,0 +1,17 @@
+D:\visual Studio 2022\Store.Data\Store.Service\bin\Debug\net8.0\Store.Service.deps.json
+D:\visual Studio 2022\Store.Data\Store.Service\bin\Debug\net8.0\Store.Service.dll
+D:\visual Studio 2022\Store.Data\Store.Service\bin\Debug\net8.0\Store.Service.pdb
+D:\visual Studio 2022\Store.Data\Store.Service\bin\Debug\net8.0\Store.Data.dll
+D:\visual Studio 2022\Store.Data\Store.Service\bin\Debug\net8.0\Store.Repository.dll
+D:\visual Studio 2022\Store.Data\Store.Service\bin\Debug\net8.0\Store.Repository.pdb
+D:\visual Studio 2022\Store.Data\Store.Service\bin\Debug\net8.0\Store.Data.pdb
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.csproj.AssemblyReference.cache
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfoInputs.cache
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfo.cs
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Se.AEB3E340.Up2Date
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.dll
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\refint\Store.Service.dll
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.pdb
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\ref\Store.Service.dll
