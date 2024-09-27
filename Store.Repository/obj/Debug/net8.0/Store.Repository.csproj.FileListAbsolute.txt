@@ -13,3 +13,4 @@ D:\visual Studio 2022\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Reposit
 D:\visual Studio 2022\Store.Data\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
 D:\visual Studio 2022\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
 D:\visual Studio 2022\Store.Data\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll
+D:\visual Studio 2022\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.sourcelink.json

@@ -15,3 +15,4 @@ D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.dl
 D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\refint\Store.Service.dll
 D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.pdb
 D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\ref\Store.Service.dll
+D:\visual Studio 2022\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.sourcelink.json
