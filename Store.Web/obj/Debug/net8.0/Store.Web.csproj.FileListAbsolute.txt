@@ -144,3 +144,5 @@ D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\ref\Store.Web.dll
 D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\AutoMapper.dll
 D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Store.Web.staticwebassets.runtime.json
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.sourcelink.json
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\StackExchange.Redis.dll

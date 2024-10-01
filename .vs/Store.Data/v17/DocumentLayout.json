@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\visual Studio 2022\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\specification\\productspecs\\productwithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productwithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\specification\\productspecs\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\cacheservice\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\cacheservice\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\cacheservice\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\cacheservice\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,53 +59,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductWithSpecifications.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T22:13:27.958Z",
+              "WhenOpened": "2024-10-01T20:16:25.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductWithCountSpecification.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
+              "Title": "CacheAttribute.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Helper\\CacheAttribute.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
+              "RelativeToolTip": "Store.Web\\Helper\\CacheAttribute.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T22:13:26.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductSpecification.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T22:00:25.538Z",
+              "WhenOpened": "2024-10-01T17:04:04.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PaginatedResultDto.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Helper\\PaginatedResultDto.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
-              "RelativeToolTip": "Store.Service\\Helper\\PaginatedResultDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Store.Web\\appsettings.json",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\appsettings.json",
+              "RelativeToolTip": "Store.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T13:30:23.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Store.Web\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T21:25:50.569Z",
+              "WhenOpened": "2024-10-01T11:56:47.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\CacheService\\CacheService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\CacheService\\CacheService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\CacheService\\CacheService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\CacheService\\CacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:18:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\CacheService\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:13:16.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:44:18.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeToolTip": "Store.Web\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:15:27.978Z",
               "EditorCaption": ""
             }
           ]
