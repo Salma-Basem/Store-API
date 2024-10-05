@@ -125,7 +125,6 @@ D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.GeneratedM
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.AssemblyInfoInputs.cache
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.AssemblyInfo.cs
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.csproj.CoreCompileInputs.cache
-D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\staticwebassets.build.json
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\staticwebassets.development.json
@@ -146,3 +145,9 @@ D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Store.Web.staticweba
 D:\visual Studio 2022\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.sourcelink.json
 D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\visual Studio 2022\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
