@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "D:\\visual Studio 2022\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\orderentities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\helper\\applyseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\applyseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\orderentities\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\storeidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\storeidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\store.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\store.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\orderentities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\orderentities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\identityentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\identityentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\orderentities\\orderpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\orderpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\store.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\store.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\userservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\userservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\userservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\userservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\userservice\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\userservice\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +74,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplySeeding.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Helper\\ApplySeeding.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Helper\\ApplySeeding.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Helper\\ApplySeeding.cs",
-              "RelativeToolTip": "Store.Web\\Helper\\ApplySeeding.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductItem.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:00:49.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StoreIdentityContextSeed.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\StoreIdentityContextSeed.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\StoreIdentityContextSeed.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\StoreIdentityContextSeed.cs",
-              "RelativeToolTip": "Store.Repository\\StoreIdentityContextSeed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:12:02.577Z",
+              "WhenOpened": "2024-10-09T08:15:03.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Store.Repository",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Store.Repository.csproj",
-              "RelativeDocumentMoniker": "Store.Repository\\Store.Repository.csproj",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Store.Repository.csproj",
-              "RelativeToolTip": "Store.Repository\\Store.Repository.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-05T12:11:41.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Store.Web\\appsettings.json",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\appsettings.json",
-              "RelativeToolTip": "Store.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T10:41:00.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
-              "RelativeToolTip": "Store.Web\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAAC4AAAA0AAAA",
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T09:31:20.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IdentityServiceExtension.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "RelativeToolTip": "Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T09:03:02.328Z",
+              "WhenOpened": "2024-10-09T08:13:10.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Title": "OrderPaymentStatus.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\OrderPaymentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T08:41:34.183Z",
+              "WhenOpened": "2024-10-09T08:11:18.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\OrderStatus.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderStatus.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:09:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShippingAddress.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\ShippingAddress.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\ShippingAddress.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\ShippingAddress.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\ShippingAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:05:39.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:03:53.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Store.Data",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Store.Data.csproj",
+              "RelativeDocumentMoniker": "Store.Data\\Store.Data.csproj",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Store.Data.csproj",
+              "RelativeToolTip": "Store.Data\\Store.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T08:03:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:58:20.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\UserService\\UserService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\UserService\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA2wCoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:22:16.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\UserService\\Dtos\\RegisterDto.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Store.Service\\Services\\UserService\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:07:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\UserService\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Store.Service\\Services\\UserService\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:04:39.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\UserService\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Store.Service\\Services\\UserService\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:00:39.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\UserService\\IUserService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\UserService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:57:50.713Z",
               "EditorCaption": ""
             }
           ]
