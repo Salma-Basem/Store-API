@@ -12,5 +12,8 @@ namespace Store.Repository.Basket.Models
         public int? DeliveryMethodId { get; set; }
         public decimal ShippingPrice { get; set; }
         public List<BasketIem> BasketIems { get; set; } = new List<BasketIem>();
+        public string? PaymentIntentId { get; set; }
+        public string? ClientSecret { get; set; }
+
     }
 }
