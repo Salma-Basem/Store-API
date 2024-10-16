@@ -13,11 +13,11 @@ namespace Store.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<OrderItem> builder)
         {
-            builder.OwnsOne(orderItem => orderItem.ItemOrdered, x =>
-            {
-                x.WithOwner();
-            });
 
+            builder.OwnsOne(orderItem => orderItem.ProductItem, sa =>
+            {
+                sa.WithOwner();
+            });
         }
     }
 }

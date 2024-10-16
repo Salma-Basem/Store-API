@@ -13,6 +13,9 @@ namespace Store.Data.Entities.OrderEntities
       //  public ProductItemOrdered ItemOrdered { get; set; }
         public ProductItem ProductItem { get; set; }
         public Guid OrderId { get; set; }
-
+        // Default constructor that uses a default Func
+        public OrderItem() : base(obj => obj) // or just pass null if appropriate
+        {
+        }
     }
 }

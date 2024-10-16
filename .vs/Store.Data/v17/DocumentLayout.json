@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "D:\\visual Studio 2022\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\paymentservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\paymentservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\specification\\orderspecs\\orderwithpaymentintentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\orderspecs\\orderwithpaymentintentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|d:\\visual studio 2022\\store.data\\store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DFEBF3F-A8F4-4810-8F01-EEA07FC31E9A}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|d:\\visual studio 2022\\store.data\\store.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B937F5-20F4-4C1C-A8DF-92F57AC5FDB5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\paymentservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\paymentservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\basket\\models\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\basket\\models\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|d:\\visual studio 2022\\store.data\\store.service\\services\\basketservice\\dtos\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5054BA93-FA40-4036-9D04-7E0A9D753921}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\basketservice\\dtos\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|d:\\visual studio 2022\\store.data\\store.repository\\specification\\orderspecs\\orderwithitemspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAE627F-0A52-450F-A8CA-3E6C52CB512C}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\orderspecs\\orderwithitemspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,32 +42,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderWithPaymentIntentSpecification.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymentIntentSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymentIntentSpecification.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymentIntentSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\OrderSpecs\\OrderWithPaymentIntentSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:31:47.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Store.Web\\appsettings.json",
               "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\appsettings.json",
               "RelativeToolTip": "Store.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAB9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T07:26:05.706Z",
+              "WhenOpened": "2024-10-15T23:03:26.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeToolTip": "Store.Web\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:11:11.68Z",
               "EditorCaption": ""
             },
             {
@@ -84,98 +80,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\PaymentService\\PaymentService.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\PaymentService\\PaymentService.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\PaymentService\\PaymentService.cs",
-              "RelativeToolTip": "Store.Service\\Services\\PaymentService\\PaymentService.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAAAG0AAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:56:43.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPaymentService.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\PaymentService\\IPaymentService.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\PaymentService\\IPaymentService.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\PaymentService\\IPaymentService.cs",
-              "RelativeToolTip": "Store.Service\\Services\\PaymentService\\IPaymentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:52:10.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BasketProfile.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\BasketService\\Dtos\\BasketProfile.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\BasketService\\Dtos\\BasketProfile.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\BasketService\\Dtos\\BasketProfile.cs",
-              "RelativeToolTip": "Store.Service\\Services\\BasketService\\Dtos\\BasketProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:27:21.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerBasket.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Basket\\Models\\CustomerBasket.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Basket\\Models\\CustomerBasket.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Basket\\Models\\CustomerBasket.cs",
-              "RelativeToolTip": "Store.Repository\\Basket\\Models\\CustomerBasket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:25:37.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\Order.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:18:31.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderWithItemSpecification.cs",
-              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\OrderSpecs\\OrderWithItemSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\OrderSpecs\\OrderWithItemSpecification.cs",
-              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Repository\\Specification\\OrderSpecs\\OrderWithItemSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\OrderSpecs\\OrderWithItemSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:44:54.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\OrderService\\OrderService.cs",
               "RelativeDocumentMoniker": "Store.Service\\Services\\OrderService\\OrderService.cs",
               "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\OrderService\\OrderService.cs",
               "RelativeToolTip": "Store.Service\\Services\\OrderService\\OrderService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAADwAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAiwGMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T00:11:06.85Z",
+              "WhenOpened": "2024-10-15T22:23:39.053Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:19:31.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:09:58.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwDUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:42:05.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\PaymentService\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:40:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Store.Data\\Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Store.Web\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:29:46.099Z",
+              "EditorCaption": ""
             }
           ]
         },

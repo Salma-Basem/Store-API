@@ -1,57 +1,73 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Store.Data.Entities.IdentityEntities;
-using Store.Service.HandleResponses;
 using Store.Service.Services.UserService;
 using Store.Service.Services.UserService.Dtos;
 
+
 namespace Store.Web.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class AccountController : BaseController
     {
-        private readonly IUserService _userService;
-        private readonly UserManager<AppUser> _userManager;
+        private readonly IUserService _userServices;
+        private readonly UserManager<AppUser> _userManger;
 
-        public AccountController(IUserService userService,UserManager<AppUser> userManager)
+        public AccountController(IUserService userServices, UserManager<AppUser> userManger)
         {
-           _userService = userService;
-           _userManager = userManager;
+            _userServices = userServices;
+            _userManger = userManger;
         }
 
+        // Login Endpoint
+        [HttpPost("login")]
         public async Task<ActionResult<UserDto>> Login(LoginDto input)
-
         {
-            var user= await _userService.Login(input);
+            var user = await _userServices.Login(input);
             if (user == null)
-                return BadRequest(new CustomException(400,"email does not exist"));
-
+            {
+                return BadRequest(new { message = "Invalid credentials" });
+            }
             return Ok(user);
         }
-        [HttpPost]
+
+        // Register Endpoint
+        [HttpPost("register")]
         public async Task<ActionResult<UserDto>> Register(RegisterDto input)
         {
-            var user = await _userService.Register (input);
+            var user = await _userServices.Register(input);
             if (user == null)
-                return BadRequest(new CustomException(400, "email already exist"));
-
+            {
+                return BadRequest(new { message = "User already exists" });
+            }
             return Ok(user);
         }
 
-        [HttpGet]
-        [Authorize]
-        public async Task<UserDto> GetCurrentUserDetails()
+        // Get Current User Details
+        [HttpGet("current-user")]
+        public async Task<ActionResult<UserDto>> GetCurrentUserDetails()
         {
-            var userId = User?.FindFirst("UserId");
-            var user = await _userManager.FindByIdAsync(userId.Value);
-            return new UserDto
+            var userIdClaim = User?.FindFirst("UserId");
+
+            if (userIdClaim == null)
+            {
+                return Unauthorized(new { message = "User not found" });
+            }
+
+            var user = await _userManger.FindByIdAsync(userIdClaim.Value);
+            if (user == null)
+            {
+                return NotFound(new { message = "User not found" });
+            }
+
+            return Ok(new UserDto
             {
                 Id = Guid.Parse(user.Id),
                 DisplayName = user.DisplayName,
                 Email = user.Email,
-            };
+            });
         }
     }
 }
- 

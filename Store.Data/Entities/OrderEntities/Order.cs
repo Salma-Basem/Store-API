@@ -25,5 +25,10 @@ namespace Store.Data.Entities.OrderEntities
             => SubTotal+ DeliveryMethod.Price;
         public string? BasketId { get; set; }
         public string? PaymentIntentId { get; set; }
+
+        // Default constructor that uses a default Func
+        public Order() : base(obj => obj) // or just pass null if appropriate
+        {
+        }
     }
 }

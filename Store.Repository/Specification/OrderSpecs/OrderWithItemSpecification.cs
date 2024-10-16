@@ -25,5 +25,9 @@ namespace Store.Repository.Specification.OrderSpecs
             AddInclude(order => order.OrderItems);
          
         }
+
+        public OrderWithItemSpecification(Guid id, string buyerEmail) : this(id)
+        {
+        }
     }
 }
